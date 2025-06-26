@@ -1,5 +1,5 @@
 ## Prediksi Diabetes Menggunakan Regresi
-Proyek ini merupakan implementasi teknik data mining menggunakan algoritma regresi untuk memprediksi apakah seseorang menderita diabetes berdasarkan data medis. Proyek ini disusun untuk memenuhi tugas mata kuliah Data Mining.
+Proyek ini merupakan implementasi algoritma regresi untuk memprediksi apakah seseorang menderita diabetes berdasarkan data medis. Proyek ini disusun untuk memenuhi tugas mata kuliah Data Mining.
 
 ## Coba di Google Colab
 Notebook proyek ini bisa langsung dijalankan di Google Colab melalui tautan berikut:

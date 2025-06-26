@@ -55,3 +55,7 @@ Dataset ini diambil dari Kaggle:
 - Pandas, NumPy
 - Matplotlib, Scatter (visualisasi)
 - Scikit-learn (Regresi dan evaluasi model)
+
+  Proyek ini dibuat oleh :
+  **1. Septi Amalia**
+  **2. Vebronia Bikolo**

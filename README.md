@@ -50,8 +50,8 @@ Dataset ini diambil dari Kaggle:
 - **Lisensi**: Tersedia secara publik di Kaggle untuk keperluan pembelajaran, mengikuti [Kaggle Terms of Use](https://www.kaggle.com/terms)
 
 ## Teknologi yang Digunakan
-- Python 3.x
+- Python 3.13.2
 - Jupyter Notebook
 - Pandas, NumPy
-- Matplotlib, Seaborn (visualisasi)
+- Matplotlib, Scatter (visualisasi)
 - Scikit-learn (Regresi dan evaluasi model)

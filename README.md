@@ -20,14 +20,12 @@ Dataset ini berisi informasi medis dari 768 perempuan keturunan Pima Indian dan 
 - DiabetesPedigreeFunction (Riwayat keluarga)
 - Age (Usia)
 - Outcome (Label: 0 = tidak diabetes, 1 = diabetes)
-- 
+  
 ### Detail Dataset:
 - **Jumlah Data**: 768 entri
 - **Fitur**: 8 atribut + 1 target (Outcome)
 - **Format**: CSV
 - **Ukuran File**: ±23KB
-
----
 
 ## Eksperimen Model Regresi dan Evaluasi
 

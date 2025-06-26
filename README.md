@@ -2,10 +2,8 @@
 Proyek ini merupakan implementasi algoritma regresi untuk memprediksi apakah seseorang menderita diabetes berdasarkan data medis. Proyek ini disusun untuk memenuhi UAS mata kuliah **Data Mining**.
 
 ## Coba di Google Colab
-Notebook proyek ini bisa langsung dijalankan di Google Colab melalui tautan berikut:
- [**Buka di Google Colab**](https://colab.research.google.com/drive/1ZRLdA--k6Yt009dUTP8FbbHUAS-q26kg?authuser=1)
-Atau klik tombol di bawah:
-[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZRLdA--k6Yt009dUTP8FbbHUAS-q26kg?authuser=1)
+Notebook proyek ini bisa langsung dijalankan di Google Colab melalui tombol di bawah:
+[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZRLdA--k6Yt009dUTP8FbbHUAS-q26kg)
 
 ## Deskripsi Dataset
 

@@ -28,17 +28,15 @@ Dataset ini berisi informasi medis dari 768 perempuan keturunan Pima Indian dan 
 - **Ukuran File**: ±23KB
 
 ## Eksperimen Model Regresi dan Evaluasi
-
-Dalam proyek ini dilakukan eksperimen dan perbandingan antara dua model regresi:
+Dalam proyek ini, dilakukan perbandingan performa antara dua model regresi:
 - ✅ **Support Vector Regression (SVR)**
 - ✅ **Decision Tree Regressor**
-
-Keduanya dievaluasi menggunakan metrik berikut:
+Evaluasi dilakukan menggunakan beberapa metrik kesalahan dan akurasi berikut:
 - **MSE** (Mean Squared Error)
 - **MAE** (Mean Absolute Error)
 - **MAPE** (Mean Absolute Percentage Error)
 - **R² Score** (Koefisien Determinasi)
-Hasil dari eksperimen ini digunakan untuk menentukan model yang paling akurat dalam memprediksi data diabetes.
+Hasil dari eksperimen ini digunakan untuk menentukan model yang paling akurat dalam memprediksi data diabetes. Model terbaik dipilih berdasarkan nilai error terkecil dan nilai R² tertinggi.
 
 ## Sumber Dataset
 Dataset ini diambil dari Kaggle:
@@ -52,7 +50,11 @@ Dataset ini diambil dari Kaggle:
 - Jupyter Notebook
 - Pandas, NumPy
 - Matplotlib, Scatter (visualisasi)
-- Scikit-learn (Regresi dan evaluasi model)
+- Scikit-learn (`SVR`, `DecisionTreeRegressor`, `mean_squared_error`, `mean_absolute_error`, `mean_absolute_percentage_error`, dan `r2_score`)
+
+## Hak Cipta dan Penggunaan Dataset
+
+Dataset ini **bukan milik kami** dan hanya digunakan untuk keperluan akademik. Semua hak atas dataset dimiliki oleh pemilik aslinya. 
 
 ## Proyek ini dibuat oleh :
   1. **Septi Amalia**

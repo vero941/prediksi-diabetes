@@ -57,5 +57,5 @@ Dataset ini diambil dari Kaggle:
 - Scikit-learn (Regresi dan evaluasi model)
 
 ## Proyek ini dibuat oleh :
-  **1. Septi Amalia**
-  **2. Vebronia Bikolo**
+  1. **Septi Amalia**
+  2. **Vebronia Bikolo**

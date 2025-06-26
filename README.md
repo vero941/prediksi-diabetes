@@ -12,15 +12,15 @@ Atau klik tombol di bawah:
 Dataset yang digunakan adalah dataset kesehatan dari Pima Indians, yang sangat sering digunakan dalam pembelajaran dan penelitian di bidang data science dan machine learning.
 Dataset ini berisi informasi medis dari 768 perempuan keturunan Pima Indian dan bertujuan untuk memprediksi apakah seseorang menderita diabetes berdasarkan beberapa fitur klinis, yaitu:
 - Pregnancies (Jumlah kehamilan)
-- Glucose (Kadar glukosa darah puasa)
-- BloodPressure (Tekanan darah diastolik)
-- SkinThickness (Ketebalan lipatan kulit)
-- Insulin (Kadar insulin serum)
+- Glucose (Kadar Glukosa dalam darah)
+- BloodPressure (Tekanan darah)
+- SkinThickness (Ketebalan kulit)
+- Insulin (Kadar insulin dalam darah)
 - BMI (Indeks massa tubuh)
-- DiabetesPedigreeFunction (Riwayat keluarga)
+- DiabetesPedigreeFunction (persentase Diabetes)
 - Age (Usia)
 - Outcome (Label: 0 = tidak diabetes, 1 = diabetes)
-  
+
 ### Detail Dataset:
 - **Jumlah Data**: 768 entri
 - **Fitur**: 8 atribut + 1 target (Outcome)
